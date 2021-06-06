@@ -1,3 +1,6 @@
 [submodule "08-restserver"]
 	path = 08-restserver
 	url = https://github.com/xjezzuuuu/nodejs-base.git
+[submodule "09-api-nodejs-mongodb"]
+	path = 09-api-nodejs-mongodb
+	url = https://github.com/xjezzuuuu/api-nodejs-mongodb.git
