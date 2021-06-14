@@ -4,3 +4,6 @@
 [submodule "09-api-nodejs-mongodb"]
 	path = 09-api-nodejs-mongodb
 	url = https://github.com/xjezzuuuu/api-nodejs-mongodb.git
+[submodule "10-api-nodejs-mongodb-jwt"]
+	path = 10-api-nodejs-mongodb-jwt
+	url = https://github.com/xjezzuuuu/api-nodejs-mongodb-jwt.git
